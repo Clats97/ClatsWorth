@@ -40,7 +40,9 @@ Apache 2.0 License. Use this software freely under the terms described in LICENS
 ## Author
 Created by Josh Clatney (Ethical Pentesting Enthusiast).
 
-4. **DEPENDENCIES & REQUIREMENTS**
+Copyright 2025 Joshua M Clatney
+
+**DEPENDENCIES & REQUIREMENTS**
 - Python 3.6+
 - yfinance: pip install yfinance
 - pystyle: pip install pystyle
