@@ -2,6 +2,7 @@
 
 A lightweight command-line tool that retrieves near-real-time stock price data from Yahoo Finance. Built for convenient price checks and demonstrations of live data fetching and threading.
 
+![clatsworth](https://github.com/user-attachments/assets/3d72a92e-e6a3-4011-a270-f41b000929ad)
 
 ## Features
 - Real-Time Data: Fetches updated stock prices every 5 seconds using yfinance.
