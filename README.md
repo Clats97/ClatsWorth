@@ -38,11 +38,6 @@ When prompted, enter a valid stock ticker symbol (e.g. AAPL, TSLA). The script w
 ## License
 Apache 2.0 License. Use this software freely under the terms described in LICENSE.
 
-## Author
-Created by Josh Clatney (Ethical Pentesting Enthusiast).
-
-Copyright 2025 Joshua M Clatney
-
 **DEPENDENCIES & REQUIREMENTS**
 - Python 3.6+
 - yfinance: pip install yfinance
@@ -53,5 +48,13 @@ Copyright 2025 Joshua M Clatney
 Additional Considerations:
 - Price updates may be slightly delayed outside market hours.
 - Ensure you have a stable internet connection to retrieve data successfully.
+
+**Author**
+
+Joshua M Clatney (Clats97)
+
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97)
 
 Disclaimer: This script is not an official financial tool. Data accuracy depends on Yahoo Finance. For critical trading decisions, consult licensed data providers and official market sources. Use at your own risk.
